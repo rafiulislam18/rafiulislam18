@@ -1,4 +1,4 @@
-# Welcome there! 👋 I'm Rafiul Islam
+# Hi there! 👋 I'm Rafiul Islam
 
 I'm a **Professional Python Developer** (since August 2024) passionate about building scalable applications especially REST APIs. I enjoy collaborating on innovative projects.
 
@@ -7,7 +7,7 @@ I'm a **Professional Python Developer** (since August 2024) passionate about bui
 ## 🔧 Skills & Technologies
 - **Languages**: Python, JavaScript (Familiar), HTML, CSS 
 - **Frameworks**: Django (+DRF), FastAPI, Kivy, Flask (Familiar), Flet (Familiar)
-- **Databases**: PostgreSQL, MySQL (Familiar), SQLite3 (Familiar)
+- **Databases**: PostgreSQL, MySQL (Familiar), SQLite (Familiar)
 - **Technologies**: Git, Version Control, REST APIs, Postman, Docker (Familiar), Ubuntu (Familiar)
 
 ---
@@ -34,5 +34,7 @@ I'm a **Professional Python Developer** (since August 2024) passionate about bui
 
 ## ⚡ Fun Fact
 I built the QuizLeader API over one month, one day a week—because even APIs deserve a weekend off!
+
+---
 
 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration opportunities.
