@@ -17,7 +17,6 @@ I'm a **Professional Python Developer** (since August 2024) passionate about bui
   - **Description**: A robust and scalable RESTful API. Featuring JWT authentication, it allows to play quizzes (start quiz & submit answers), track player scores with leaderboards (subject-specific & global) & manage subjects, lessons & questions (CRUD). 
   - **Key Features**:
     - JWT Authentication
-    - Quiz Attempts with Score Tracking & Leaderboards (Subject-wise & Global)
     - Clean API Docs (Swagger/OpenAPI)
     - Caching, Database Optimization, Rate-Limiting, Pagination, Permissions, Logging & more!
     - Modular, Maintainable Codebase with DRF Best Practices
