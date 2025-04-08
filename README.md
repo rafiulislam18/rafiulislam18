@@ -14,7 +14,15 @@ I'm a **Professional Python Developer** (since August 2024) passionate about bui
 
 ## 🌟 Featured Projects
 - **[DRF QuizLeader API](https://github.com/rafiulislam18/Py-DRF__QuizLeader-API) - Go [Live](https://rafiulislam18.pythonanywhere.com/quiz-leader-drf-api/)**  
-  - **Description**: The API featuring JWT authentication allows to play quizzes (start quiz & submit answers), track player scores with leaderboards (subject-specific & global) & manage subjects, lessons & questions (CRUD). 
+  - **Description**: A robust and scalable RESTful API. Featuring JWT authentication, it allows to play quizzes (start quiz & submit answers), track player scores with leaderboards (subject-specific & global) & manage subjects, lessons & questions (CRUD). 
+  - **Key Features**:
+    - JWT Authentication
+    - Subject-wise & Global Leaderboards
+    - Quiz Attempts with Score Tracking
+    - Clean API Docs (Swagger/OpenAPI)
+    - Caching, Database Optimization
+    - Rate-Limiting, Pagination, Permissions, Logging
+    - Modular, Maintainable Codebase with DRF Best Practices
   - **Tech Stack**: Python, Django REST Framework, PostgreSQL, JWT, Swagger/OpenAPI.
 
 ---
