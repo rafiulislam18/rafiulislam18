@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Rafiul Islam
 
-I'm a **Professional Python Developer** (since August 2024) passionate about building scalable applications especially REST APIs. I enjoy collaborating on innovative projects.
+I'm a professional **Full Stack Developer** with over years of professional experience, specializing in backend development using Django (+DRF), FastAPI, Flask and frontend development using Next.js/ReactJS. I also have hands-on experience building cross-platform applications with Kivy, Flet, automation systems using Selenium and web scraping solutions using BeautifulSoup. I enjoy building clean, scalable systems. I'm comfortable working in fast-paced environments and passionate about writing efficient, maintainable code. I'm open to collaborating on innovative projects.
 
 ---
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, JavaScript (Familiar), HTML, CSS 
-- **Frameworks**: Django (+DRF), FastAPI, Kivy, Flask (Familiar), Flet (Familiar)
-- **Databases**: PostgreSQL, MySQL (Familiar), SQLite (Familiar)
-- **Technologies**: Git, Version Control, REST APIs, Postman, Docker (Familiar), Ubuntu (Familiar)
+- **Languages**: Python, JavaScript, HTML, CSS 
+- **Frameworks**: Django (+DRF), FastAPI, Flask, Kivy, Flet, Next.js/ReactJS
+- **Databases**: PostgreSQL, MySQL (Familiar), SQLite
+- **Technologies**: Nginx, VPS, Git, Postman, Pytest, Selenium, WebSocket, Docker (Familiar), CI/CD (Familiar)
 
 ---
 
