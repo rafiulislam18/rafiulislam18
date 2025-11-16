@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rafiul Islam
 
-I'm a professional **Full Stack Developer** with over years of professional experience, specializing in backend development using Django (+DRF), FastAPI, Flask and frontend development using Next.js/ReactJS. I also have hands-on experience building cross-platform applications with Kivy, Flet, automation systems using Selenium and web scraping solutions using BeautifulSoup. I enjoy building clean, scalable systems. I'm comfortable working in fast-paced environments and passionate about writing efficient, maintainable code. I'm open to collaborating on innovative projects.
+I'm a professional **Full Stack Developer** with over years of professional experience, specializing in backend development using Django (+DRF), FastAPI, Flask and frontend development using Next.js/ReactJS. I also have hands-on experience building cross-platform applications with Kivy, Flet, automation systems using Selenium and web scraping solutions using BeautifulSoup. I enjoy building clean, scalable systems. I'm comfortable working in fast-paced environments and passionate about writing efficient, maintainable code. I'm open to collaborations on innovative projects.
 
 ---
 
